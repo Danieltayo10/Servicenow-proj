@@ -1,0 +1,14 @@
+[
+  {
+    "short_description": "Cannot connect to VPN",
+    "description": "User reports VPN disconnects every 5 minutes.",
+    "priority": 2,
+    "category": "Network"
+  },
+  {
+    "short_description": "Laptop overheating",
+    "description": "Laptop becomes extremely hot when running multiple tabs.",
+    "priority": 3,
+    "category": "Hardware"
+  }
+]
